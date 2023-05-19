@@ -1,6 +1,6 @@
 
 import Link from "next/link";
-import { useState, ref } from "react";
+import { useState} from "react";
 
 import { api } from "~/utils/api";
 
